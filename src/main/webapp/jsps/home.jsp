@@ -19,7 +19,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/logo.png" alt="" width="250">
+		<img src=" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
 		Africa United, 
