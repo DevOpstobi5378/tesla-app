@@ -12,6 +12,8 @@
 <h1 align="center">Africa United - Leaders in Software Delivery and DevOps Automation</h1>
 <h2 align="center"> Welcome to Africa United.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
 	Africa United Tesla web application project2 class 31. 
+	The future is in your hands. Grab it, use and change the World.
+	Africa will be recognised as the next level AI center.
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
 <hr>
