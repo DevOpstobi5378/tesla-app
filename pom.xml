@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla Releases Nexus Repository</name>
-	      <url>http://54.219.175.114:8081/africaunited/repository/frontwave-release/</url> 
+	      <url>http://172.31.7.40:8081/africaunited/repository/frontwave-release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Tesla Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.219.175.114:8081/africaunited/repository/frontwave-snapshot/</url>
+	      <url>http://172.31.7.40:8081/africaunited/repository/frontwave-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
