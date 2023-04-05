@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla_prod</finalName>
+		<finalName>Visa-Mastercard_prod</finalName>
 		
 		<plugins>
 			<plugin>
