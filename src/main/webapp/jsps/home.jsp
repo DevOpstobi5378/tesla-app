@@ -15,7 +15,7 @@
 	The future is in your hands. Grab it, use and change the World.
 	Africa will be recognised as the next level AI center.
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED TO BE A PART OF THIS GREAT IMPACTATION MINISTRY IN THE MOST PRECIOUS NAME OF JESUS CHRIST. Production</h2>
+	<h2 align="center" >DevOps is good. JESUS IS LORD, I AM BLESSED TO BE A PART OF THIS GREAT IMPACTATION MINISTRY IN THE MOST PRECIOUS NAME OF JESUS CHRIST. Production</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
